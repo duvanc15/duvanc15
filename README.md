@@ -1,97 +1,115 @@
- Hola, soy Duvan 👋
+# 👋 Hola, soy Duvan Andres
 
-Estudiante de Ingeniería de Sistemas | Redes, Ciberseguridad y Desarrollo
+### Estudiante de Ingeniería de Sistemas | Redes, Ciberseguridad y Desarrollo de Software
 
-Soy estudiante de Ingeniería de Sistemas en la Universidad ECCI, Bogotá, interesado en redes, ciberseguridad, desarrollo de software y tecnologías IoT.
+Soy estudiante de **Ingeniería de Sistemas en la Universidad ECCI**, interesado en **redes, ciberseguridad, desarrollo de software e IoT**.
 
-Actualmente estoy construyendo mi perfil profesional mediante proyectos prácticos que combinan programación, infraestructura, electrónica y documentación técnica**, con el objetivo de obtener mi primera oportunidad profesional en el área de IT.
+Me gusta aprender mediante proyectos prácticos y desarrollar soluciones que integren **programación, infraestructura, bases de datos, electrónica y tecnologías web**.
 
- 🛠️ Tecnologías y herramientas
+Actualmente estoy buscando mi **primera oportunidad profesional en el área de IT**, donde pueda aplicar mis conocimientos, seguir aprendiendo y aportar al equipo.
 
- Lenguajes
+---
 
- Python
- Java
- JavaScript
- C++
+## 🛠️ Tecnologías y herramientas
 
-Redes e infraestructura
+### Lenguajes
 
- TCP/IP
- Cisco Packet Tracer
- Linux
- Fundamentos de redes
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+
+### Desarrollo web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
 
 ### Bases de datos
 
- SQL
- SQLite
- MySQL
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square\&logo=sqlite\&logoColor=white)
+
+### Redes e infraestructura
+
+* TCP/IP
+* Cisco Packet Tracer
+* Linux
+* Administración básica de redes
 
 ### Ciberseguridad
 
- Ciberseguridad defensiva
- Fundamentos de Ethical Hacking
- Seguridad de redes
+* Fundamentos de ciberseguridad
+* Seguridad de redes
+* Ethical Hacking
+* Principios de seguridad defensiva
 
-Herramientas
+### Herramientas
 
- Git
- GitHub
- VS Code
- NetBeans
- Arduino IDE
+* Git
+* GitHub
+* VS Code
+* NetBeans
+* Arduino IDE
 
- 🚀 Proyectos destacados
+---
 
- 🌉 BridgeGuard
+## 🚀 Proyectos destacados
 
-Sistema IoT para monitoreo de peso vehicular y detección de posibles sobrecargas en puentes de baja escala.
+### 🌉 BridgeGuard
 
-Tecnologías: ESP32, C++, HX711, OLED, IoT.
+Sistema IoT orientado al **monitoreo de peso vehicular y detección de posibles sobrecargas** en puentes de baja escala.
 
-👉 [Ver proyecto](https://github.com/duvanc15/BridgeGuard)
+**Tecnologías:** ESP32, C++, HX711, OLED, sensores de carga e IoT.
 
- 📊 SalesFlow
+👉 [Ver repositorio](https://github.com/duvanc15/BridgeGuard)
 
-Aplicación web para gestión de leads y seguimiento de oportunidades comerciales mediante un tablero Kanban.
+---
 
-Tecnologías: Python, Flask, SQLite, HTML, CSS.
+### 📊 SalesFlow
 
-👉 [Ver proyecto](https://github.com/duvanc15/SalesFlow)
+Aplicación web para la **gestión de leads y seguimiento de oportunidades comerciales** mediante un tablero Kanban.
 
-☕ Java Data Structures Management System
+**Tecnologías:** Python, Flask, SQLite, HTML y CSS.
 
-Aplicación de escritorio desarrollada en Java para demostrar estructuras de datos, algoritmos y programación orientada a objetos.
+👉 [Ver repositorio](https://github.com/duvanc15/SalesFlow)
 
-Tecnologías: Java, POO, estructuras de datos, algoritmos.
+---
 
-👉 [Ver proyecto](https://github.com/duvanc15/java-data-structures-management-system)
+### ☕ Java Data Structures Management System
 
-🎓 Formación y certificaciones
+Aplicación desarrollada en Java para demostrar el uso de **programación orientada a objetos, estructuras de datos y algoritmos**.
 
-Ingeniería de Sistemas — Universidad ECCI
+**Tecnologías:** Java, POO, estructuras de datos y algoritmos.
 
-Certificaciones y formación complementaria:
+👉 [Ver repositorio](https://github.com/duvanc15/java-data-structures-management-system)
 
-Introducción a la Ciberseguridad — Cisco Networking Academy
-Hacker Ético — Cisco Networking Academy
-Exploración de Redes con Cisco Packet Tracer — Cisco Networking Academy
-Ciberseguridad para Todos — University of Maryland / Coursera
-Python TOTAL — Udemy
+---
 
-📚 Actualmente
+## 🎓 Formación
 
-Estoy fortaleciendo mis conocimientos en:
+**Ingeniería de Sistemas**
+Universidad ECCI — Colombia
 
-Redes y administración de infraestructura
-Ciberseguridad
-Desarrollo backend
-Bases de datos
-Linux
-Git y GitHub
+---
 
-📫 Contacto
+## 📚 Actualmente fortaleciendo
+
+* Redes y administración de infraestructura
+* Ciberseguridad
+* Desarrollo backend
+* Bases de datos
+* Linux
+* Git y GitHub
+* Desarrollo de proyectos con Python y Java
+
+---
+
+## 📫 Contacto
+
 
 📧 Email: duvanacm@gmail.com
 
+---
+
+⭐ Gracias por visitar mi perfil.
